@@ -1,2 +1,11 @@
 # wordvim
-A free and open-source Vim keybinding extension for Microsoft Word.
+
+Vim keybindings for Microsoft Word.
+
+> 🚧 Early development.
+
+## Goals
+
+- Modal editing
+- Microsoft Word support(Only 365 version available)
+- Open source

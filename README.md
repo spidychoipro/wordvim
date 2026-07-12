@@ -235,6 +235,8 @@ docs: update milestones with Phase 3
 
 **Built with ❤️ for Vim users who are stuck with Word**
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/spidychoi)
+
 [⬆️ Back to top](#-wordvim)
 
 </div>

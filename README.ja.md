@@ -235,6 +235,8 @@ docs: フェーズ 3 でマイルストーンを更新
 
 **Vim ユーザーのために ❤️ でビルド**
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/spidychoi)
+
 [⬆️ トップに戻る](#-wordvim)
 
 </div>

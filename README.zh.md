@@ -235,6 +235,8 @@ docs: 更新第三阶段里程碑
 
 **为 Vim 用户用 ❤️ 打造**
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/spidychoi)
+
 [⬆️ 回到顶部](#-wordvim)
 
 </div>

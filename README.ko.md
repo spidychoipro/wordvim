@@ -235,6 +235,8 @@ docs: 3단계로 마일스톤 업데이트
 
 **Vim 사용자를 위해 ❤️로 빌드됨**
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/spidychoi)
+
 [⬆️ 맨 위로](#-wordvim)
 
 </div>

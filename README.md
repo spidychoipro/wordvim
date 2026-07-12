@@ -108,7 +108,7 @@ dotnet build
 | [Milestones](docs/milestones.md) | 30-day development roadmap |
 | [PoC Plan](docs/poc-plan.md) | Proof of concept validation plan |
 | [Environment Guide](docs/environment.md) | Development environment setup |
-| [Contributing](AGENTS.md) | Contributor guidelines and code conventions |
+| [Contributing](CONTRIBUTING.md) | Contributor guidelines and code conventions |
 
 ## 🏗️ Architecture
 
@@ -190,7 +190,7 @@ Right-click `uninstall.bat` → Run as administrator. Done.
 
 ## 🤝 Contributing
 
-See [AGENTS.md](AGENTS.md) for contributor guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contributor guidelines.
 
 ```bash
 # Commit convention

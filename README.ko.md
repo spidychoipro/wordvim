@@ -108,7 +108,7 @@ dotnet build
 | [마일스톤](docs/milestones.md) | 30일 개발 로드맵 |
 | [PoC 계획](docs/poc-plan.md) | 개념 증명 검증 계획 |
 | [환경 가이드](docs/environment.md) | 개발 환경 설정 |
-| [기여 가이드](AGENTS.md) | 기여자 가이드라인 및 코드 규칙 |
+| [기여 가이드](CONTRIBUTING.md) | 기여자 가이드라인 및 코드 규칙 |
 
 ## 🏗️ 아키텍처
 
@@ -190,7 +190,7 @@ dotnet build
 
 ## 🤝 기여
 
-[AGENTS.md](AGENTS.md)에서 기여 가이드라인을 확인하세요.
+[CONTRIBUTING.md](CONTRIBUTING.md)에서 기여 가이드라인을 확인하세요.
 
 ```bash
 # 커밋 규칙

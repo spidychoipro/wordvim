@@ -108,7 +108,7 @@ dotnet build
 | [マイルストーン](docs/milestones.md) | 30日間の開発ロードマップ |
 | [PoC 計画](docs/poc-plan.md) | 概念実証の検証計画 |
 | [環境ガイド](docs/environment.md) | 開発環境のセットアップ |
-| [コントリビューション](AGENTS.md) | コントリビューターガイドラインとコード規約 |
+| [コントリビューション](CONTRIBUTING.md) | コントリビューターガイドラインとコード規約 |
 
 ## 🏗️ アーキテクチャ
 
@@ -190,7 +190,7 @@ dotnet build
 
 ## 🤝 コントリビューション
 
-[AGENTS.md](AGENTS.md) でコントリビューターガイドラインをご確認ください。
+[CONTRIBUTING.md](CONTRIBUTING.md) でコントリビューターガイドラインをご確認ください。
 
 ```bash
 # コミット規約

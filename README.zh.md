@@ -108,7 +108,7 @@ dotnet build
 | [里程碑](docs/milestones.md) | 30 天开发路线图 |
 | [PoC 计划](docs/poc-plan.md) | 概念验证计划 |
 | [环境指南](docs/environment.md) | 开发环境设置 |
-| [贡献指南](AGENTS.md) | 贡献者指南和代码规范 |
+| [贡献指南](CONTRIBUTING.md) | 贡献者指南和代码规范 |
 
 ## 🏗️ 架构
 
@@ -190,7 +190,7 @@ dotnet build
 
 ## 🤝 贡献
 
-请查看 [AGENTS.md](AGENTS.md) 了解贡献者指南。
+请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解贡献者指南。
 
 ```bash
 # 提交规范
